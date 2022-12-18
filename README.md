@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/snehilchhabria/snehilchhabria/master/intro.svg" alt="HI I'M, SNEHIL CHHABRIA👋">
+	<img src="https://github.com/snehilchhabria/snehilchhabria/blob/main/intro.svg" alt="HI I'M, SNEHIL CHHABRIA👋">
 </div>
 
 # Hi there, I'm Snehil Chhabria 👋
