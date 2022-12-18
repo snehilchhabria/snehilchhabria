@@ -1,3 +1,7 @@
+<div align="center">
+	<img src="https://github.com/snehilchhabria/snehilchhabria/blob/master/intro.svg" alt="HI I'M, SNEHIL CHHABRIA👋">
+</div>
+
 # Hi there, I'm Snehil Chhabria 👋
 
 ### I'm an aspiring Software Developer and currently a Computer Science undergrad.
