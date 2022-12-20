@@ -11,7 +11,7 @@
 - ⚡ Fun fact: will update it later
 
 ### Connect with me:
-
+[<img align="left" alt="Twitter" width="22px" src="./twitter.png" style="margin-right: 7px;" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
 
 <br />
@@ -29,5 +29,5 @@
 
 <br />
 <br />
-
+[twitter]: https://twitter.com/snehil_chhabria
 [linkedin]: https://www.linkedin.com/in/snehilchhabria/
