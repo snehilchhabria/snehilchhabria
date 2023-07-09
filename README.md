@@ -35,7 +35,7 @@
 
 ---
 
-### Latest Blog Posts ✍️
+## Latest Blog Posts ✍️
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
