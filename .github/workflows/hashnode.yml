@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'snehilviahashnode' # Hashnode Username
+          USERNAME: 'snehil03' # Hashnode Username
           BLOG_URL: 'https://snehilchhabria.hashnode.dev/' # Blog URL
           COUNT: 4 # MAX Visisble
         env:
