@@ -36,6 +36,10 @@
 ---
 
 <!-- HASHNODE_BLOG:START -->
+- [Creating a Basic HTTP Server](https://snehilchhabria.hashnode.dev//creating-a-basic-http-server)
+- [Tips on Writing Cleaner Code: Best Practices to Follow](https://snehilchhabria.hashnode.dev//tips-on-writing-cleaner-code-best-practices-to-follow)
+- [Understanding JavaScript DOM](https://snehilchhabria.hashnode.dev//understanding-javascript-dom)
+- [Understanding Asynchronous JavaScript](https://snehilchhabria.hashnode.dev//understanding-asynchronous-javascript)
 <!-- HASHNODE_BLOG:END -->
 
 ---
