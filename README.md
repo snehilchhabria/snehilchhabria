@@ -39,6 +39,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://snehilchhabria.hashnode.dev//websocket-demystified-your-gateway-to-real-time-communication" title="WebSocket Demystified: Your Gateway to Real-Time Communication"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691266034740/2a16f171-3e8a-400e-8c25-7d9a0d55f55a.png" alt="WebSocket Demystified: Your Gateway to Real-Time Communication" width="250px" align="left" /></a>
+<a href="https://snehilchhabria.hashnode.dev//websocket-demystified-your-gateway-to-real-time-communication" title="WebSocket Demystified: Your Gateway to Real-Time Communication"><strong>WebSocket Demystified: Your Gateway to Real-Time Communication</strong></a>
+<div><strong>5 Aug 2023</strong></div>
+<br/> What exactly is a WebSocket?
+A WebSocket enables a user to send and receive messages to and from a server. So, in essence, this is a method of communication between Client and Server. Let's first comprehend this communication; we'll return to WebSock... </p> <br/> <br/>
+<p align="left">
 <a href="https://snehilchhabria.hashnode.dev//creating-a-basic-http-server" title="Creating a Basic HTTP Server"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688754670747/8b56b6ce-aed4-4486-b6ab-d8885d9f3b3b.png" alt="Creating a Basic HTTP Server" width="250px" align="left" /></a>
 <a href="https://snehilchhabria.hashnode.dev//creating-a-basic-http-server" title="Creating a Basic HTTP Server"><strong>Creating a Basic HTTP Server</strong></a>
 <div><strong>7 July 2023</strong></div>
@@ -55,13 +61,6 @@ Clean code refers to well-structured and easily understandable code that follows
 <a href="https://snehilchhabria.hashnode.dev//understanding-javascript-dom" title="Understanding JavaScript DOM"><strong>Understanding JavaScript DOM</strong></a>
 <div><strong>3 Apr 2023</strong></div>
 <br/> The Document Object Model (DOM) is a programming interface for HTML and XML documents. It represents the page so that programs can change the document structure, style, and content. With JavaScript, you can access and manipulate the DOM to create dyn... </p> <br/> <br/>
-<p align="left">
-<a href="https://snehilchhabria.hashnode.dev//understanding-asynchronous-javascript" title="Understanding Asynchronous JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680373037257/63e7d146-4270-40c5-8852-e16aa72395c1.png" alt="Understanding Asynchronous JavaScript" width="250px" align="left" /></a>
-<a href="https://snehilchhabria.hashnode.dev//understanding-asynchronous-javascript" title="Understanding Asynchronous JavaScript"><strong>Understanding Asynchronous JavaScript</strong></a>
-<div><strong>1 Apr 2023</strong></div>
-<br/> Introduction
-Asynchronous JavaScript allows multiple tasks to run concurrently without blocking the main thread, improving the responsiveness and efficiency of web applications.
-It's important for handling time-consuming operations, such as I/O and n... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ---
