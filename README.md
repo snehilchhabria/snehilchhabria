@@ -39,6 +39,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://snehilchhabria.hashnode.dev//what-is-jwt-and-why-do-we-need-it" title="What is JWT and why do we need it?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693839973846/3cc082f7-1e87-4df8-b901-a4ef0d4b51b7.webp" alt="What is JWT and why do we need it?" width="250px" align="left" /></a>
+<a href="https://snehilchhabria.hashnode.dev//what-is-jwt-and-why-do-we-need-it" title="What is JWT and why do we need it?"><strong>What is JWT and why do we need it?</strong></a>
+<div><strong>4 Sept 2023</strong></div>
+<br/> A JSON web token(JWT) is JSON Object which is used to securely transfer information over the web(between two parties). It can be used for an authentication system and can also be used for information exchange.
+Data can be authenticated and trusted du... </p> <br/> <br/>
+<p align="left">
 <a href="https://snehilchhabria.hashnode.dev//closures-your-pathway-to-javascript-mastery" title="Closures: Your Pathway to JavaScript Mastery"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692381096017/f5f05035-e378-4bd2-98c3-04eed64ba5a4.webp" alt="Closures: Your Pathway to JavaScript Mastery" width="250px" align="left" /></a>
 <a href="https://snehilchhabria.hashnode.dev//closures-your-pathway-to-javascript-mastery" title="Closures: Your Pathway to JavaScript Mastery"><strong>Closures: Your Pathway to JavaScript Mastery</strong></a>
 <div><strong>18 Aug 2023</strong></div>
@@ -58,12 +64,6 @@ A WebSocket enables a user to send and receive messages to and from a server. So
 <div><strong>7 July 2023</strong></div>
 <br/> An HTTP server, also known as a web server, is a software application that handles and responds to Hypertext Transfer Protocol (HTTP) requests. It is a fundamental component of the client-server architecture used in the World Wide Web.
 HTTP servers a... </p> <br/> <br/>
-<p align="left">
-<a href="https://snehilchhabria.hashnode.dev//tips-on-writing-cleaner-code-best-practices-to-follow" title="Tips on Writing Cleaner Code: Best Practices to Follow"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680594339595/119cb7f3-831a-42e7-8648-d68fc6c518e3.jpeg" alt="Tips on Writing Cleaner Code: Best Practices to Follow" width="250px" align="left" /></a>
-<a href="https://snehilchhabria.hashnode.dev//tips-on-writing-cleaner-code-best-practices-to-follow" title="Tips on Writing Cleaner Code: Best Practices to Follow"><strong>Tips on Writing Cleaner Code: Best Practices to Follow</strong></a>
-<div><strong>4 Apr 2023</strong></div>
-<br/> Introduction
-Clean code refers to well-structured and easily understandable code that follows certain principles and best practices. This type of code is easy to maintain, modify, and extend, and it minimizes the risk of introducing bugs or errors in... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ---
