@@ -2,7 +2,7 @@
 	<img src="https://github.com/snehilchhabria/snehilchhabria/blob/main/intro.svg" alt="HI I'M, SNEHIL CHHABRIA👋">
 </div>
 
-### I'm an aspiring Software Developer and currently a Computer Science undergrad.
+### I'm an aspiring Software Developer and currently a Computer Science undergrad looking forward to open source communities.
 
 
 - 🌱 Currently learning Full Stack Development
