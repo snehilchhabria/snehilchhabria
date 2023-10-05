@@ -6,7 +6,7 @@
 
 
 - 🌱 Currently learning Full Stack Development
-- 🥅 2023 Goals: Contribute more to open source projects 
+- 🥅 2024 Goals: Contribute more to open source projects 
 - 📫 How to reach me: snehilchhabria143@gmail.com
 - ⚡ Fun fact: The whole world is enough of a fact for this
 
